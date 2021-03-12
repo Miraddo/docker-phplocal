@@ -5,8 +5,6 @@ Project structure:
 ```
 .
 ├── docker-compose.yaml
-├── data
-    ├── mysql
 ├── app
     ├── Dockerfile
     └── index.php
